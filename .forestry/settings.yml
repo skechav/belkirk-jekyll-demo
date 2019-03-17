@@ -10,7 +10,10 @@ sections:
   label: Posts
   create: all
   templates:
+  - landing-page
+  - project
   - post
+  - information-yml
 - type: jekyll-pages
   label: Pages
   create: all
